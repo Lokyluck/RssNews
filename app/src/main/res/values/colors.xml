@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#b2322c</color>
+    <color name="colorPrimaryDark">#7c0003</color>
+    <color name="colorAccent">#ea6455</color>
+    <color name="colorLine">#BDBDBD</color>
+
+    <!--Text-->
+    <color name="textColorPrimary">#fff</color>
+    <color name="textColorSecondary">#fff</color>
+    <color name="colorHeaderBackground">#B71C1C</color>
+
+    <!--Menu-->
+    <color name="actionMenuTextColor">#444</color>
+
+    <!--FirstNews-->
+    <color name="headline_text">#FFF</color>
+    <color name="headline_text_bacground">#666555</color>
+
+    <!--Article-->
+    <color name="titleColor">#666666</color>
+
+    <!--TabLayout-->
+    <color name="tabTextColor">#666</color>
+    <color name="tabSelectedTextColor">#000</color>
+</resources>

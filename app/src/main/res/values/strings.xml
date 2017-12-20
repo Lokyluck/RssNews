@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">ICT News</string>
+    <string name="title">ICT NEWS</string>
+    <string name="detail_name">Back</string>
+    <string name="desc">logo</string>
+    <string name="desc2">item image</string>
+    <string name="textOfFirstMenuItem_DetailMenu">item image</string>
+    <string name="noInternetConnection">No Internet Connection. \n Pull down to retry!</string>
+    <string name="FailToLoadData">Failed Loading Data. \n Pull down to try again!</string>
+    <string name="user_agent_suffix">AppName/1.0</string>
+
+    <!--DANH MỤC-->
+    <string name="thoi_su">Thời sự</string>
+    <string name="cai_cach_hanh_chinh">Cải cách hành chính</string>
+    <string name="internet">Internet</string>
+    <string name="phan_mem">Phần mềm</string>
+    <string name="kinh_doanh">Kinh doanh</string>
+    <string name="thi_truong">Thị trường</string>
+    <string name="may_anh_so">Máy ảnh số</string>
+    <string name="game">Game</string>
+    <string name="goc_doanh_nghiep">Góc doanh nghiệp</string>
+    <string name="cong_nghe360">Công nghệ 360</string>
+    <string name="dien_may">Điện máy</string>
+    <string name="vien_thong">Viễn thông</string>
+    <string name="so_hoa_truyen_hinh">Số hóa truyền hình</string>
+    <string name="xa_hoi">Xã hội @</string>
+    <string name="cntt">CNTT</string>
+    <string name="phan_cung">Phần cứng</string>
+    <string name="ho_so">Hồ sơ</string>
+    <string name="the_gioi_so">Thế giới số</string>
+    <string name="di_dong">Di động</string>
+    <string name="khoi_nghiep">Khởi nghiệp</string>
+    <string name="cau_chuyen_khoi_nghiep">Câu chuyện khởi nghiệp</string>
+    <string name="oto_xemay">Ô tô - Xe máy</string>
+    <string name="video">Video</string>
+    <string name="video_hot">Video hot</string>
+
+    <!--DANH MỤC LINK-->
+    <string name="thoi_su_url">http://ictnews.vn/rss/thoi-su</string>
+    <string name="cai_cach_hanh_chinh_url">http://ictnews.vn/rss/vien-thong/cai-cach-hanh-chinh</string>
+    <string name="internet_url">http://ictnews.vn/rss/internet</string>
+    <string name="phan_mem_url">http://ictnews.vn/rss/cntt/phan-mem</string>
+    <string name="kinh_doanh_url">http://ictnews.vn/rss/kinh-doanh</string>
+    <string name="thi_truong_url">http://ictnews.vn/rss/kinh-doanh/thi-truong</string>
+    <string name="may_anh_so_url">http://ictnews.vn/rss/the-gioi-so/may-anh-so</string>
+    <string name="game_url">http://ictnews.vn/rss/game</string>
+    <string name="goc_doanh_nghiep_url">http://ictnews.vn/rss/khoi-nghiep/goc-doanh-nghiep</string>
+    <string name="cong_nghe360_url">http://ictnews.vn/rss/cong-nghe-360</string>
+    <string name="dien_may_url">http://ictnews.vn/rss/cong-nghe-360/dien-may</string>
+    <string name="vien_thong_url">http://ictnews.vn/rss/vien-thong</string>
+    <string name="so_hoa_truyen_hinh_url">http://ictnews.vn/rss/vien-thong/so-hoa-truyen-hinh</string>
+    <string name="xa_hoi_url">http://ictnews.vn/rss/internet/xa-hoi</string>
+    <string name="cntt_url">http://ictnews.vn/rss/cntt</string>
+    <string name="phan_cung_url">http://ictnews.vn/rss/cntt/phan-cung</string>
+    <string name="ho_so_url">http://ictnews.vn/rss/kinh-doanh/ho-so</string>
+    <string name="the_gioi_so_url">http://ictnews.vn/rss/the-gioi-so</string>
+    <string name="di_dong_url">http://ictnews.vn/rss/the-gioi-so/di-dong</string>
+    <string name="khoi_nghiep_url">http://ictnews.vn/rss/khoi-nghiep</string>
+    <string name="cau_chuyen_khoi_nghiep_url">http://ictnews.vn/rss/khoi-nghiep/cau-chuyen-khoi-nghiep</string>
+    <string name="oto_xemay_url">http://ictnews.vn/rss/cong-nghe-360/o-to-xe-may</string>
+    <!--<string name="video_url">http://ictnews.vn/rss/video</string>-->
+    <string name="video_hot_url">http://ictnews.vn/rss/video/video-hot</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

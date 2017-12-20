@@ -1,0 +1,40 @@
+<resources>
+
+    <style name="CustomTheme" parent="Theme.AppCompat.Light">
+        <item name="contentInsetStart">0dp</item>
+        <item name="contentInsetEnd">0dp</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>
+        <item name="android:textColorSecondary">@color/textColorSecondary</item>
+        <item name="android:itemTextAppearance">@style/MyMenuTextStyle</item>
+    </style>
+
+    <!--<style name="MyCustomTabLayout" parent="Widget.Design.TabLayout">-->
+    <style name="MyCustomTabLayout">
+        <item name="tabMaxWidth">@dimen/tab_max_width</item>
+        <item name="tabIndicatorColor">?attr/colorAccent</item>
+        <item name="tabIndicatorHeight">2dp</item>
+        <item name="tabPaddingStart">12dp</item>
+        <item name="tabPaddingEnd">12dp</item>
+        <item name="tabBackground">?attr/selectableItemBackground</item>
+        <item name="tabTextAppearance">@style/MyCustomTabTextAppearance</item>
+        <item name="tabSelectedTextColor">@color/tabSelectedTextColor</item>
+    </style>
+
+    <style name="MyCustomTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/tabTextColor</item>
+        <item name="textAllCaps">false</item>
+    </style>
+
+    <style name="MyMenuTextStyle">
+        <item name="android:textColor">@color/actionMenuTextColor</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+</resources>
+
